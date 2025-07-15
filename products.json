@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Logitech MX Master 3S",
+    "price": 11999,
+    "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png",
+    "specs": "Wireless Mouse, 8K DPI, USB-C",
+    "category": "Mouse",
+    "amazonLink": "https://amazon.com/dp/B09HM94VDS"
+  },
+  {
+    "name": "Apple Magic Keyboard",
+    "price": 9900,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2A3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1628010471000",
+    "specs": "Wireless Keyboard, Touch ID, USB-C",
+    "category": "Keyboard",
+    "amazonLink": "https://www.amazon.com/Apple-Magic-Keyboard-US-English/dp/B0DL6LV7Q6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NGYvT5KAIFy7m5_B-Cy3cuxJEBl8tO7593WOc4y5Pt2YvISlFRfYgdLEvhKDxjSMAMM3dKwcI5yORazJxBOtBLG10TqQPYCy0LyZiMjvq46UE3cUTl5MItaT27hKn3tWjd3n7NkhGKeON-Fcb9p-8XEaUxL8K5lAJLHWBsGdlxnP8Hn7yf-m0P7TakdPRmNDjwTjgJRjpJyYhjYOob_07r6j3ML5S85EIVA05DQdheA.c1TjGh3UfFgYWVF6Rya-kls3pz2tXgK8-uBTH6V2Q1k&dib_tag=se&keywords=apple%2Bmagic%2Bkeyboard&qid=1752559022&sr=8-3&th=1"
+  },
+  {
+    "name": "ASUS ROG Strix 27\" Monitor",
+    "price": 59900,
+    "image": "https://c1.neweggimages.com/ProductImageCompressAll1280/24-236-313-V01.jpg",
+    "specs": "27\", 1440p, 240Hz Gaming Monitor",
+    "category": "Monitor",
+    "amazonLink": "https://www.amazon.com/ASUS-Strix-Gaming-Monitor-XG27AQDMG/dp/B0CZWM44QP?th=1"
+  },
+  {
+    "name": "MacBook Air M2",
+    "price": 82346,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665",
+    "specs": "Apple M2, 8GB RAM, 256GB SSD",
+    "category": "Laptop",
+    "amazonLink": "https://amazon.com/dp/B0B3C2R8MP"
+  },
+  {
+    "name": "WD Black 2TB Hard Drive",
+    "price": 7499,
+    "image": "https://c1.neweggimages.com/ProductImageCompressAll1280/22-234-406-V01.jpg",
+    "specs": "7200 RPM, 3.5\" Internal HDD",
+    "category": "Storage",
+    "amazonLink": "https://www.amazon.com/Passport-Portable-External-Drive-Black/dp/B07VTFN6HM/ref=sr_1_6?dib=eyJ2IjoiMSJ9.OpsS-gLyoSxi7MunMLSXG_0cun3EmogwdrQtWtEDnHrJT_Vu3bPu_XmRMJnTn0giAemkJezLJw1smg3R-cYKN8NDnhzWrwrd5PNDQx3YLpUfH8nAPkMR8EXQQ_ceaZGSUIxEQneRabYDbiSJGyIE2Ec6NJ10NitpsFsod01RbvEJCG6UibFUfaAANcze0WUKJcSLTx47adzekmNrhRZIZt1Tf7moV0qxwwEl7VDoens.d1TjGh3UfFgYWVF6Rya-kls3pz2tXgK8-uBTH6V2Q1k&dib_tag=se&keywords=WD%2BBlack%2B2TB%2BHard%2BDrive&qid=1752559088&sr=8-6&th=1"
+  },
+  {
+    "name": "Apple iPad Air",
+    "price": 50519,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=940&hei=1112&fmt=png-alpha&.v=1645065732688",
+    "specs": "M1 Chip, 64GB, Wi-Fi",
+    "category": "Tablet",
+    "amazonLink": "https://amazon.com/dp/B09V3HN1KC"
+  }
+]
